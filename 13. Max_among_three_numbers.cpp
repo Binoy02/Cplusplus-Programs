@@ -1,6 +1,6 @@
 /*
   Binoy Das Gupta
-  Find maximum among three numbers
+  Nested if(1) : Find maximum among three numbers
   06-07-2021
 */
 
