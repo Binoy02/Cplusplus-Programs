@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	int A[5] = {2,5,8,9,6};
-	for(auto x:A)
+	for(auto x:A) // auto keyword is smart enough to check the data type of the declared array
 	{
 		cout<<x<<endl;
 	}
